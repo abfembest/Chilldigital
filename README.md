@@ -63,31 +63,6 @@
 * **Staff:** Input data, manage day-to-day transactions
 * **Customer:** (Optional) Limited access for tracking owned inventory
 
----
-
-## 📦 Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/chilldigital.git
-   ```
-
-2. **Set up your environment**
-
-   * Install PHP, MySQL, and Apache (e.g., XAMPP)
-   * Create a MySQL database: `chilldigital_db`
-   * Import the provided `.sql` file into the database
-
-3. **Configure connection**
-
-   * Open `/config/db.php` and update database credentials
-
-4. **Run the application**
-
-   * Launch it in your browser: `http://localhost/chilldigital/`
-
----
 
 ## 📸 Screenshots
 
